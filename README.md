@@ -17,14 +17,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ARG03) 
 # 📊 GitHub Stats:
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayran03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="width: 48% height:35%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayran03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 48%;" />
-</div>
-
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayran03&theme=dark&hide_border=false" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=aayran03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayran03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aayran03&theme=dark&hide_border=false)
 
 
 ---
