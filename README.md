@@ -18,11 +18,14 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayran03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aayran03&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="width: 48% height:35%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayran03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 48%;" />
 </div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aayran03&theme=dark&hide_border=false)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayran03&theme=dark&hide_border=false" />
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aayran03&icon=0&color=0)](https://visitcount.itsvg.in)
