@@ -26,4 +26,4 @@
 [![](https://visitcount.itsvg.in/api?id=aayran03&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![aayran03 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aayran03&theme=xcode)](https://github.com/aayran03/github-readme-activity-graph)
+[![aayran03 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aayran03&theme=dracula)](https://github.com/aayran03/github-readme-activity-graph)
